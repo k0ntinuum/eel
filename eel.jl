@@ -55,7 +55,8 @@ function decrypt(p, q,key_base)
 end
 
 function demo()
-    key_base = 4
+    cls()
+    key_base = 2
     key_length = 16
     text_length = 54
     f = key(key_base,key_length)

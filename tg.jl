@@ -43,7 +43,7 @@ end
 
 
 function str_from_vec(v,c)
-    alph = "O|@*"
+    alph = "O|2"
     #alph = "O|23456789"
     #alph = "abcdefghijklmnopqrstuvwxyz_"
     #alph = "ABCDEFGHIJKLMNOPQRSTUVWXYZ_"
