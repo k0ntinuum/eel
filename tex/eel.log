@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.3)  13 NOV 2023 11:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.3)  4 DEC 2023 21:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**snake-jl.tex
-(./snake-jl.tex
+**eel.tex
+(./eel.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -351,8 +351,8 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count293
 \l__pdf_internal_box=\box56
 )
-(./snake-jl.aux)
-\openout1 = `snake-jl.aux'.
+(./eel.aux)
+\openout1 = `eel.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
@@ -430,9 +430,9 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 28.
-(./snake-jl.out) (./snake-jl.out)
+(./eel.out) (./eel.out)
 \@outlinefile=\write3
-\openout3 = `snake-jl.out'.
+\openout3 = `eel.out'.
 
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 33
 .
@@ -453,9 +453,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./snak
-e-jl.aux)
-Package rerunfilecheck Info: File `snake-jl.out' has not changed.
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./eel.
+aux)
+Package rerunfilecheck Info: File `eel.out' has not changed.
 (rerunfilecheck)             Checksum: AFC639CB9DDB5D45E8284B208A5DFDA9;166.
  )
 (\end occurred inside a group at level 2)
@@ -465,18 +465,18 @@ Package rerunfilecheck Info: File `snake-jl.out' has not changed.
 ### bottom level 
 Here is how much of TeX's memory you used:
  10995 strings out of 476025
- 171833 string characters out of 5790018
+ 171748 string characters out of 5790018
  1856388 words of memory out of 5000000
  31301 multiletter control sequences out of 15000+600000
  515500 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,76p,481b,554s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,76p,517b,556s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr10.pfb>
-Output written on snake-jl.pdf (1 page, 51428 bytes).
+Output written on eel.pdf (1 page, 49704 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream

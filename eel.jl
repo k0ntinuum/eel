@@ -1,34 +1,12 @@
 using Random
+using Printf
+using OhMyREPL
+
+include("tg.jl")
+include("demo.jl")
+
 function key(b,n)
     rand(0:b-1,n)
-end
-
-function rgb(r,g,b)
-    "\e[38;2;$(r);$(g);$(b)m"
-end
-
-function red()
-    rgb(255,0,0)
-end
-
-function yellow()
-    rgb(255,255,0)
-end
-
-function white()
-    rgb(255,255,255)
-end
-
-function gray(h)
-    rgb(h,h,h)
-end
-
-function str_from_vec(v,c)
-    alph = "O|@*"
-    #alph = "O|23456789"
-    #alph = "abcdefghijklmnopqrstuvwxyz_"
-    #alph = "ABCDEFGHIJKLMNOPQRSTUVWXYZ_"
-    join(map(i -> alph[i+1:i+1]*c, v))
 end
 
 function encode(p,q,x, key_base)
